@@ -1,2 +1,2 @@
-# emilymaywood.github.io
+# ArtOfEmilyMay
 Portfolio website 
